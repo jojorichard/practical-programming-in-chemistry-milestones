@@ -11,7 +11,7 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Github Profile Page                         |  https://github.com/jojorichard/jojorichard                                 |
 | 1    | Commit and Push Change from Command Line |https://github.com/jojorichard/ppchem/commit/eebd1576ba023926207f84a3469af4081e3518b1|
 | 1    | Create a New Branch                         | https://github.com/jojorichard/ppchem/tree/project             |
-| 1    | Create a conda environment                  | https://github.com/jojorichard/ppchem/blob/project/env.yml      |
+| 1    | Create a conda environment                  | https://github.com/jojorichard/ppchem/blob/main/env.yml     |
 | 1    | Fork a Repo                                 | https://github.com/jojorichard/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | https://github.com/jojorichard/ppchem/pull/1 |
 | 2    | (Optional) Review a Pull Request            | https://github.com/jojorichard/ppchem/pull/1#issuecomment-1962439656 |
